@@ -2,6 +2,8 @@
 
 This Discord bot provides advanced moderation features, including kicking, banning, clearing messages, and logging moderation actions.
 
+### 👀 We do not have a stable release at this time. If any issues occur please use the "Issues" tab or if you know what you are doing, fix it and you can make a pull request. Thanks!
+
 ## Prerequisites
 
 - Python 3.x
