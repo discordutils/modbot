@@ -15,8 +15,8 @@ This Discord bot provides advanced moderation features, including kicking, banni
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/advanced-moderation-bot.git
-    cd advanced-moderation-bot
+    git clone https://github.com/discordutils/modbot.git
+    cd modbot
     ```
 
 2. **Install the required libraries:**
