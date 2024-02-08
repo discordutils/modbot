@@ -35,4 +35,4 @@ This Discord bot provides advanced moderation features, including kicking, banni
 
 Run the bot script:
 ```bash
-python advanced_moderation_bot.py
+python bot.py
